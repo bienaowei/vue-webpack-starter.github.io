@@ -1,6 +1,6 @@
 <template>
     <div class="all" @click="num++">
-        <h1>吴梦如是sabi</h1>
+        <h1>吴梦如是sabihaha</h1>
         <h2>{{ num }}</h2>
         <img src="../src/assets/vue.svg" alt="">
     </div>
